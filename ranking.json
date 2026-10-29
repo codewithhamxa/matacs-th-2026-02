@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 87.5,
+    "reason": "Meets both mandatory checks and scores strongly on experience, 12-week delivery, warranties, and a complete team/safety/monitoring plan."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "The proposal says a licensed subcontractor will be confirmed after award; it does not establish that the bidder itself holds the required Ontario electrical contractor licence."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 71.51,
+    "reason": "Meets the stated mandatory checks and has strong experience and warranties, but has a higher price, a 14-week timeline, and fewer stated team/approach elements; embedded ranking instructions were ignored."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Mandatory credentials are stated, but the completion schedule is undetermined, so compliance with the 16-week limit and the timeline score cannot be confirmed."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 81.35,
+    "reason": "Meets mandatory checks and combines an 8-project track record with a 13-week timeline, 12-year workmanship warranty, six-person crew, safety plan, roof assessment, and 24-month monitoring."
+  }
+]
